@@ -19,7 +19,7 @@ Django==2.0.2
 django-cors-headers==3.2.1
 django-filter==2.2.0
 djangorestframework==3.11.0
-ecdsa==0.13
+ecdsa==0.13.3
 entrypoints==0.2.3
 et-xmlfile==1.0.1
 fpdf==1.7.2
