@@ -15,7 +15,7 @@ cryptography==2.1.4
 cssselect==1.0.3
 cycler==0.10.0
 decorator==4.2.1
-Django==2.0.2
+Django==2.2.13
 django-cors-headers==3.2.1
 django-filter==2.2.0
 djangorestframework==3.11.0
