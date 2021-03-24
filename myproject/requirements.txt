@@ -102,7 +102,7 @@ qrtools==0.0.2
 qtconsole==4.3.1
 queuelib==1.4.2
 requests==2.20.1
-rsa==4.0
+rsa==4.1
 Rx==1.6.1
 scikit-learn==0.20.3
 scipy==1.2.1
