@@ -83,7 +83,7 @@ pycoin==0.80
 pycparser==2.18
 PyDispatcher==2.0.5
 pydot==1.4.1
-Pygments==2.2.0
+Pygments==2.7.4
 pylint==1.8.1
 PyMsgBox==1.0.6
 PyMySQL==0.9.3
